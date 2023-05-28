@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate Computer Engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on [A 3d texture extractor](https://github.com/eduardorittner/libtexture)
+- 🔭 I’m currently working on [A mobile calorie counter app](https://github.com/eduardorittner/projeto-final-322)
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently learning **Java and Object-Oriented Programming**
 
-- 🔭 I’m currently developing **Some simples games**
+- 🔭 I’m currently exploring **Web development in React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
