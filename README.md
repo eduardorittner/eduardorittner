@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate Computer Engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on A binary file visualization tool](https://github.com/eduardorittner/projeto-final-322)
+- 🔭 I’m currently working on [A binary file visualization tool](https://github.com/eduardorittner/binualizer)
 
 - 🌱 I’m currently learning **Advanced Algorithms and Data Structures**
 
