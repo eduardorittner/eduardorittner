@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate Computer Engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on [A binary file visualization tool](https://github.com/eduardorittner/binualizer)
+- 🖼️ I’m currently working on [Multispectral and Hyperspectral Image Fusion](https://github.com/eduardorittner/hsi_fusion) as the topic of my undergraduate research, at the computing and automation lab from UNICAMP, funded by the Eldorado Institute.
 
-- 🌱 I’m currently learning **Advanced Algorithms and Data Structures**
+- 🧑‍💻 I’m currently learning **Graph algorithms and Computer Processor Architecture**
+
+- Recently I've picked up Rust and have been [implementing](https://github.com/eduardorittner/loxr) the [Lox Language](https://craftinginterpreters.com/the-lox-language.html) from the [Crafting Interpreters](https://craftinginterpreters.com/) book
+
+- I also have a [blog](https://eduardorittner.github.io/) where I document stuff I've learnt, things I find interesting and so on.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
